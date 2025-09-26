@@ -1,0 +1,11 @@
+.DS_Store
+node_modules/
+dist/
+build/
+*.log
+bin/
+*.exe
+*.test
+coverage.out
+.vscode/
+.idea/
